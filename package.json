@@ -4,7 +4,7 @@
   "description": "Utility that converts data attributes listed in a README.md file to a readable .json file for use in testing with CypressIO.",
   "main": "index.js",
   "scripts": {
-    "generate-json": "node index.js README.md",
+    "source:readmemd": "node index.js README.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jon Lee",
